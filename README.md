@@ -1,23 +1,11 @@
 # StroboSync v2
 
+---
 ## License
 
 [StroboSync](https://itechsolutions.es) © 2026 [techlogiixx](https://itechsolutions.es/tech_logix)
 
 Is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-
-## Aviso
-
-Este programa puede producir flashes y destellos rápidos. No recomendado para personas con fotosensibilidad o epilepsia fotosensible.
-
-**Audio reactive light show** para Windows. Transforma tus pantallas en un visualizador sincronizado con cualquier música que suene en tu PC — Spotify, YouTube, SoundCloud, lo que sea.
-
----
-
-## Licencia
-
-**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
 
 Puedes usar, modificar y redistribuir este software libremente con la única condición de **no comercializarlo**.
 
@@ -28,7 +16,13 @@ Puedes usar, modificar y redistribuir este software libremente con la única con
 - Vender el software o incluirlo en productos de pago ❌
 - Usar en servicios comerciales sin permiso ❌
 
-Texto completo: https://creativecommons.org/licenses/by-nc/4.0/
+---
+
+## Aviso
+
+Este programa puede producir flashes y destellos rápidos. No recomendado para personas con fotosensibilidad o epilepsia fotosensible.
+
+**Audio reactive light show** para Windows. Transforma tus pantallas en un visualizador sincronizado con cualquier música que suene en tu PC — Spotify, YouTube, SoundCloud, lo que sea.
 
 ---
 
